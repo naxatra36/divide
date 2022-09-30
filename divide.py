@@ -1,2 +1,2 @@
 a,b=map(int,input().split())
-print(a//b)
+print("The quotient is ",a//b)
